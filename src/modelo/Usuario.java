@@ -10,7 +10,7 @@ private String telefono;
 private String direccion;
 private String correo;
 
-public void Usuario(){
+public Usuario(){
 	
 }
 
